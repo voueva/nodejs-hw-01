@@ -1,1 +1,37 @@
-[]
+[
+  {
+    "id": "0acb0152-3998-4e68-8dc4-7daa3a060cb7",
+    "name": "Ronald Rice",
+    "phone": "621-327-8978 x6947",
+    "email": "Claudine.Hodkiewicz59@yahoo.com",
+    "job": "Regional Group Liaison"
+  },
+  {
+    "id": "bc7f4579-b527-4fc7-a7eb-334b6c577ee9",
+    "name": "Edna Parisian",
+    "phone": "333.490.0614",
+    "email": "Meredith_Borer45@yahoo.com",
+    "job": "Future Optimization Director"
+  },
+  {
+    "id": "4b1dd4ab-b07e-4127-8978-4266e4b194db",
+    "name": "Dr. Hubert Mayert",
+    "phone": "478.612.7142 x44388",
+    "email": "Gideon.Hodkiewicz45@gmail.com",
+    "job": "International Tactics Officer"
+  },
+  {
+    "id": "c34a6eaf-eb5f-4b2d-816c-5e3069c5acfc",
+    "name": "Jerry Mertz",
+    "phone": "354-894-3584",
+    "email": "Amina_McDermott99@gmail.com",
+    "job": "Principal Assurance Architect"
+  },
+  {
+    "id": "a15bb09c-9bdd-42cc-ad99-b681b839a22e",
+    "name": "Edmund Keeling",
+    "phone": "869.410.1579 x26048",
+    "email": "Larry_Fay57@gmail.com",
+    "job": "Forward Security Executive"
+  }
+]
