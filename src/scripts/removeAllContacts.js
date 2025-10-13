@@ -13,16 +13,14 @@ export const removeAllContacts = async () => {
 
         if (Array.isArray(data)) {
             data = [];
-        } 
-        
-        else if (data && Array.isArray(data.contacts)) {
+        } else if (data && Array.isArray(data.contacts)) {
             data.contacts = [];
         }
         
         await writeFile(dbPath, JSON.stringify(data, null, 2), 'utf8');
-        console.log();
+        console.log('Clear data');
     } catch (err) {
-        console.error('err.message);
+        console.error(err.message);
         throw err;
     }
 };
